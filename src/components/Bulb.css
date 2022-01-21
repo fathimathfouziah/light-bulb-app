@@ -1,0 +1,17 @@
+.yellowbulb{
+    margin: auto;
+    border:1px solid black;
+    border-radius: 100px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.greybulb{
+    margin: auto;
+    border:1px solid black;
+    border-radius: 100px;
+    background-color:gray;
+    width: 100px;
+    height: 100px;
+}
